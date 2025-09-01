@@ -20,7 +20,7 @@ Exemplo:
 ┣ 📂 0001-two-sum
 ┃ ┣ 📜 solution.cpp
 ┃ ┗ 📜 README.md
-┣ 📂 0002-add-two-numbers
+┣ 📂 0002-Valid-Sudoku
 ┃ ┣ 📜 solution.cpp
 ┃ ┗ 📜 README.md
 ┗ 📜 README.md (este arquivo principal)
