@@ -53,3 +53,4 @@ A estratégia é:
 - Tempo: O(S) → onde S é o número total de caracteres em todas as strings (no pior caso, verificamos todos).
 
 - Espaço: O(1) → usamos apenas variáveis auxiliares.
+---
