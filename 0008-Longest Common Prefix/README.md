@@ -48,7 +48,7 @@ A estratégia é:
 
 ---
 
-- ✅ Complexidade
+## ✅ Complexidade
 
 - Tempo: O(S) → onde S é o número total de caracteres em todas as strings (no pior caso, verificamos todos).
 
